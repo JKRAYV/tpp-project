@@ -40,4 +40,4 @@ This dataset provides detailed insights into Amazon sales data, including SKU Co
 
 We will be utilizing the schema below to manage the data:
 
-![ERD Model](Documentation/ERD.png)
+![ERD Model](../tpp-project/Documentation/ERD.png)

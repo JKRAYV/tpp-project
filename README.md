@@ -41,3 +41,5 @@ This dataset provides detailed insights into Amazon sales data, including SKU Co
 We will be utilizing the schema below to manage the data:
 
 ![ERD Model](https://github.com/JKRAYV/tpp-project/blob/dev/Documentation/ERD.PNG?raw=true)
+
+The above ERD can be accessed via the following link: https://dbdiagram.io/d/67ad89ee263d6cf9a0fee9ad
